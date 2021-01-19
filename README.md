@@ -21,3 +21,7 @@ Sample website with plenty of files for demos
 ## Copyright
 
 Prueba 123
+
+## How to Contribute
+
+Prueba 123
