@@ -17,3 +17,7 @@ Sample website with plenty of files for demos
 ## Còmo probar
 
 Sample website with plenty of files for demos
+
+## Copyright
+
+Prueba 123
