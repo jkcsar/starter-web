@@ -5,7 +5,9 @@ This repository is for showing how Git and GitHub work. por rebaasing. prueba 2
 ## Purpose
 
 Sample website with plenty of files for demos
+## Purpose
 
+Sample website with plenty of files for demos
 ## Introduction
 
 Sample website with plenty of files for demos
